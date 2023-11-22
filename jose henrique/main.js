@@ -1,0 +1,1 @@
+alert('arroz doce é bom')
