@@ -1,0 +1,1 @@
+alert('arroz tem que ser temperado')
